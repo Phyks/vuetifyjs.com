@@ -72,6 +72,7 @@ export default function alacarteComponents () {
     { name: 'v-tabs-slider', component: 'VTabsSlider', group: 'VTabs' },
     { name: 'v-tabs-items', component: 'VTabsItems', group: 'VTabs' },
     { name: 'v-tab-item', component: 'VTabItem', group: 'VTabs' },
+    { name: 'v-textarea', component: 'VTextarea', group: 'VTextarea' },
     { name: 'v-text-field', component: 'VTextField', group: 'VTextField' },
     { name: 'v-time-picker', component: 'VTimePicker', group: 'VTimePicker' },
     { name: 'v-toolbar', component: 'VToolbar', group: 'VToolbar' },
